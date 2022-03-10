@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project to create a recipe website with a homepage of recipes that include links to other pages with the recipes. This project will demonstrate knowledge of html by using the correct tags, attributes, and connecting the different files correctly.
